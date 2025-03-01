@@ -1,4 +1,4 @@
 # manthancollege-demo
 This is my first repository.
 <br>
-Author - Manthan
+Author - Manthan Bhadaliya
