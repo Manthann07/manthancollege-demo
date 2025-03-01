@@ -1,2 +1,3 @@
 # manthancollege-demo
-This is my forst repository
+This is my first repository
+Author - Manthan
